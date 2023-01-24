@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 334px;
+    height: 334px;
+
+   /* background-color: rgb(112, 20, 198);
+    color: azure;*/
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+body{
+   /* height: 344px;
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;*/
+}
